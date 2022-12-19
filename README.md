@@ -28,5 +28,8 @@ In order to re-create the full datasets from raw files (for example, if a resear
 - sponsors.txt
 - studies.txt
 
+## Analyses and figures
+Analyses and figures for the manuscript can be found in the executable aggregated_analysis_Dec22.ipynb Jupyter notebook and the respective 'Graphs' and 'Outputs' folders. Code was run on Python 3.8.13, personal (currently free) API keys might be required for individual upload of maps to plotly chart-studio (see Jupyter notebook).
+
 ## Original methodology
 This article makes use of the methodology first presented in the [manuscript](https://www.nature.com/articles/s41746-020-0259-x) "Quantifying the Use of Connected Digital Products in Clinical Research" (Marra, Chen, Coravos, and Stern, 2020). Its source code can be found in the respective [repository](https://github.com/arieldora/ConnectedDigitalTools).
