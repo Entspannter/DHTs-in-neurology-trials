@@ -1,5 +1,5 @@
 # Digital Health Technologies in neurology trials
-Files for the manuscript "Use of Digital Health Technologies in neurology trials: evidence from ClinicalTrials.gov" (Masanneck, Gieseler, Gordon, Meuth, and Stern, 2023). Read the [manuscript](https://www.nature.com/...), which was published in Nature npj Digital Medicine] on XXXX.
+Files for the manuscript "Use of Digital Health Technologies in neurology trials: evidence from ClinicalTrials.gov" (Masanneck, Gieseler, Gordon, Meuth, and Stern, 2023). Read the [manuscript](https://www.nature.com/...), which was published in Nature npj Digital Medicine on XXXX.
 
 ## Accessing the research data
 
