@@ -13,7 +13,7 @@ a) The first option is to simply download the final datasets for the individual 
 
 b) The second option is to recreate the raw datasets using raw flat files. Each folder 1-4 contains an additional a Stata Do-file that combines raw data files to create the 'raw' .dta datasetfor the indication in each folder. 
 
-**Note**: for the published results in this study, raw files were downloaded from https://aact.ctti-clinicaltrials.org/pipe_files on March 05th, 2022  (they correspond to the XXXX folder located on that webpage).
+**Note**: for the published results in this study, raw files were downloaded from https://aact.ctti-clinicaltrials.org/pipe_files on March 05th, 2022.
 
 In order to re-create the full datasets from raw files (for example, if a researcher wanted to update the dataset at a later point in time), they would need the following flat files, available at the url above:
 
